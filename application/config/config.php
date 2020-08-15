@@ -23,8 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/uas_ajax_heri/';
-$config['site_url'] = 'http://localhost/uas_ajax_heri/';
+$config['base_url'] = 'http://localhost/uas_ajax_heri-master/';
+$config['site_url'] = 'http://localhost/uas_ajax_heri-master/';
 
 /*
 |--------------------------------------------------------------------------
